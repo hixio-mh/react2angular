@@ -76,7 +76,7 @@
   },
   "dependencies": {
     "@types/lodash.frompairs": "^4.0.5",
-    "angular": ">=1.5",
+    "angular": ">=1.8.2",
     "lodash.frompairs": "^4.0.1",
     "ngcomponent": "^4.1.0"
   }

@@ -142,10 +142,15 @@ angular-resource@^1.7.7:
   resolved "https://registry.yarnpkg.com/angular-resource/-/angular-resource-1.7.7.tgz#f1961d650c1a9ec625b119274e29068e0e372ae0"
   integrity sha512-158EpvkX2K64yDdlYHaIRxY52M+xcTyvmnSXEDBl6vuMf/DBjLVheoXqXNJzKzbUSfp+rugYIUfj91VblBltPQ==
 
-angular@>=1.5, angular@>=1.5.0:
+angular@>=1.5.0:
   version "1.7.6"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.6.tgz#db3bd96e3305c870f6227b9b32a4d761880473da"
   integrity sha512-QELpvuMIe1FTGniAkRz93O6A+di0yu88niDwcdzrSqtUHNtZMgtgFS4f7W/6Gugbuwej8Kyswlmymwdp8iPCWg==
+
+angular@>=1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.2.tgz#5983bbb5a9fa63e213cb7749199e0d352de3a2f1"
+  integrity sha512-IauMOej2xEe7/7Ennahkbb5qd/HFADiNuLSESz9Q27inmi32zB0lnAsFeLEWcox3Gd1F6YhNd1CP7/9IukJ0Gw==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
